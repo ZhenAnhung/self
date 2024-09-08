@@ -1,7 +1,14 @@
-# For learning usage
+# For Coding learning usage
 
-## Latex
-### 1. install command sudo apt-get install texlive-full cjk-latex latex-cjk-chinese
-### 2. output latex command "xleate files" 
+## Based on C language to study it
+### 1. Binary search
+### 2. BFS/DFS/Flood fill
+### 3. Tree traversals
+### 4. Hash tables
+### 5. Dynamic programming
 
+
+
+
+## Note: Will keep updating algorithm type if need.
 
