@@ -1,4 +1,4 @@
-# For leetcode learning usage
+# For coding learning usage
 
 ## Based on C language to study it
 ### 1. Binary search
