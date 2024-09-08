@@ -7,7 +7,8 @@
 ### 4. Hash tables
       1. [two sum](https://github.com/ZhenAnhung/self/tree/master/Hash_tables/1.Two_SUM)
 ### 5. Dynamic programming
-
+### 6. Linklist
+      1. [add two numbers](https://github.com/ZhenAnhung/self/tree/master/link_list/2.Add%20two%20sum)
 
 
 
